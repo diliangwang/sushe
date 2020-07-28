@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(../../static/imgs/4.jpg);
+    background-size:100% 100%;
+    background-attachment:fixed;
+}
+table{
+    margin: auto;
+    background-image: url(../../static/imgs/3.jpg);
+}
+a{
+    text-align: center;
+}
